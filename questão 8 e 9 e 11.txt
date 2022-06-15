@@ -1,0 +1,13 @@
+QUESTÃO 8) Escreva um comando JavaScript onde o texto Hello World! seja exibido no
+console do navegador através de uma variável.
+
+r: var nome = alert("Olá mundo")
+
+QUESTÃO 9) Usando o mesmo código da questão anterior, substitua o texto que será
+exibido no console do navegador para Hello Toodoo! O novo valor deve sobrescrever o
+valor original.
+
+r: var nome = alert("HELLO TOODOO")
+
+
+QUESTAO 11

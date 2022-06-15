@@ -1,0 +1,8 @@
+.itens {
+    display: flex;
+    padding: 15px;
+    border-bottom: 2px solid #32fa00;
+    width: 100px;
+    left:10px;
+    flex-direction: column;
+}
